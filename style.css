@@ -1,0 +1,72 @@
+header h1 {
+    font-size: 25px;
+    background-color: palevioletred;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: white;
+}
+
+main h1 {
+    font-size: 30px;
+    text-align: center;
+    background-color: pink;
+    color: palevioletred;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    width:300px;
+    height: 200px;
+    border: 5px solid greenyellow;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightgreen;
+    color: white;
+}
+
+.sometimes {
+    background-color: khaki;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: yellow;
+    color: grey;
+}
+
+body {
+    background-color: black;
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    background-color: tomato;
+}
+
+.Uliyana {
+    width: 200px;
+    height: 200px;
+    text-align: left;
+}
+
+.Uliyana2 {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+
+.lidia {
+    background-color: white;
+}
